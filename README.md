@@ -7,7 +7,7 @@ ele pode ser jogado por outros usuário.
 
 Com o intuito de aumentar a imersão do jogo, foi adicionado vozes de personagens do jogo **League of Legends** aos inimigos e musicas do jogo **Final Fantasy** nas batalhas.
 
-## Equipe
+### Equipe
 
 Jailson Sousa
 Paulo Henrique
@@ -15,4 +15,6 @@ Rafael Lopes
 
    
    
-Tecnologia Utilizada: **Android Nativo**
+### Tecnologia Utilizada
+
+**Android Nativo**
