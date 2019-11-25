@@ -9,12 +9,12 @@ Com o intuito de aumentar a imersão do jogo, foi adicionado vozes de personagen
 
 ### Equipe
 
-Jailson Sousa
-Paulo Henrique
-Rafael Lopes
+Jailson Sousa  
+Paulo Henrique  
+Rafael Lopes  
 
    
    
 ### Tecnologia Utilizada
 
-**Android Nativo**
+Android Nativo
