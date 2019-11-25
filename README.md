@@ -7,6 +7,8 @@ ele pode ser jogado por outros usuário.
 
 Com o intuito de aumentar a imersão do jogo, foi adicionado vozes de personagens do jogo **League of Legends** aos inimigos e musicas do jogo **Final Fantasy** nas batalhas.
 
+O jogo pode ser baixando [clicando aqui](https://github.com/JailsonSousa/Trabalho-IHC-2019.2/blob/master/app/release/darkadventures.apk)
+
 ### Equipe
 
 Jailson Sousa  
