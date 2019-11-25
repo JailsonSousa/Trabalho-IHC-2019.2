@@ -5,7 +5,7 @@ Pensando nisso, eu e minha equipe, decidimos criar um jogo mobile no estilo RPG(
 com deficiência visual total ou parcial. Embora o jogo tenha como principal objetivo atingir o publico citado anteriormente, 
 ele pode ser jogado por outros usuário. 
 
-####Enredo####
+####Enredo
 
 
 Tecnologia Utilizada: **Android Nativo**
