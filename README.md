@@ -15,6 +15,6 @@ Rafael Lopes
 
    
    
-### Tecnologia Utilizada
+### Tecnologia utilizada
 
 Android Nativo
